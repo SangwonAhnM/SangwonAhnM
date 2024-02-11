@@ -12,6 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...#276DC3 
+- ⚡ Fun fact: ...
 -->
-#276DC3
+
+- MA Student in SNU (2022~)
+- major: Political Science
+- interests: Political Behavior, Data Science, Methodology
+- currently working: Affective Polarization, Mathematics, Statistics(including Bayesian), Machine learning
+- Programming languages: R, Python, Stata, Latex
+- Using Tools: Visual Stdio Code(VSCode), Jupyter, Github, Obsidian, Overleaf, and Microsoft office
+- OS: Mac(mostly), Windows
+- Contact: am95238@snu.ac.kr
