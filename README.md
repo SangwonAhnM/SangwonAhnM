@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - **MA Student** in SNU (2022~)
 - major: Political Science
 - interests: Political Behavior, Data Science, Methodology
-- currently: Affective Polarization, Mathematics, Statistics(including Bayesian), Machine learning
+- currently: Affective Polarization, Mathematics, Statistics(including Bayesian), Machine learning, Data Analysis
 - Programming languages: R, Python, Stata, Latex
 - Tools: Visual Stdio Code(VSCode), Jupyter, Github, Obsidian, Overleaf, and Microsoft office
 - OS: Mac(mostly), Windows
