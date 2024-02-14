@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- **MA Student** in SNU (2022~)
 - M.A. Political Science, Seoul National University (2022 - present)
 - Field of Interest: Political Behavior, Data Science, Methodology
 - Current Research Topics: Affective Polarization, Mathematics, Bayesian Statistics, Machine Learning, Data Analysis
