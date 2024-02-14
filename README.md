@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - major: Political Science
 - interests: Political Behavior, Data Science, Methodology
 - currently: Affective Polarization, Mathematics, Statistics(including Bayesian), Machine learning, Data Analysis
-- Programming languages: R, Python, Stata, Latex
+- Programming languages: R, Python, Stata, Latex, SQL(in-progress)
 - Tools: Visual Stdio Code(VSCode), Jupyter, Github, Obsidian, Overleaf, and Microsoft office
 - OS: Mac(mostly), Windows
 - Contact: am95238@snu.ac.kr
