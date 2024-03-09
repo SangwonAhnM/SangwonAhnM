@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - Field of Interest: Political Behavior, Data Science, Methodology
 - Current Research Topics: Affective Polarization, Mathematics, Bayesian Statistics, Machine Learning, Data Analysis
 - Programming languages: R, Python, Stata, Latex, SQL(in-progress)
-- Tools: Visual Stdio Code(VSCode), Jupyter, Github, Obsidian, Overleaf, and Microsoft office
+- Tools: RStudio, Visual Stdio Code(VSCode), Jupyter, Github, Sourcetree, Sublime text, Vim, PostgreSQL, Obsidian, Overleaf, and Microsoft Office
 - OS: Mac(mostly), Windows
 - Contact: am95238@snu.ac.kr
