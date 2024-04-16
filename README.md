@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - M.A. Political Science, Seoul National University (2022 - present)
 - Field of Interest: Political Behavior, Data Science, Methodology
 - Current Research Topics: Affective Polarization, Mathematics, Bayesian Statistics, Machine Learning, Data Analysis
-- Programming languages: R, Python, Stata, Latex, SQL(in-progress)
-- Tools: RStudio, Visual Stdio Code(VSCode), Jupyter, Github, Sourcetree, Sublime text, Vim, PostgreSQL, Obsidian, Overleaf, and Microsoft Office
+- Programming languages: R, Python, Stata, Latex, SQL
+- Tools: RStudio, Visual Stdio Code(VSCode), Jupyter, Github, Sourcetree, Sublime text, Vim, PostgreSQL, pgAdmin4, Obsidian, Overleaf, and Microsoft Office
 - OS: Mac(mostly), Windows
 - Contact: am95238@snu.ac.kr
