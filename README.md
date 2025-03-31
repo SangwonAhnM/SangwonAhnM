@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- M.A. Political Science, Seoul National University (2022 - present)
-- Field of Interest: Political Behavior, Data Science, Methodology
-- Current Research Topics: Affective Polarization, Mathematics, Bayesian Statistics, Machine Learning, Data Analysis
-- Programming languages: R, Python, Stata, Latex, SQL
-- Tools: RStudio, Visual Stdio Code(VSCode), Jupyter, Github, Sourcetree, Sublime text, Vim, PostgreSQL, pgAdmin4, Obsidian, Overleaf, and Microsoft Office
+- Research Assistant. Political and Parliamentary Affairs Team, National Assembly Research Service (present) 
+- M.A. Political Science, Seoul National University (2022 - 2025)
+- Field of Interest: Political Behavior, Political Communication, Computational Social Science
+- Current Research Topics: Persuasion, Swing Voters, Affective Polarization, Machine Learning
+- Programming languages: Python, R, STATA, Latex, SQL
+- Tools: RStudio, VS Code, Jupyter, Git & Github, Sublime text, Vim, PostgreSQL, pgAdmin4, Obsidian, Overleaf, Zotero and Microsoft Office
 - OS: Mac(mostly), Windows
-- Contact: am95238@snu.ac.kr
+- Contact: swahn1995@gmail.com
