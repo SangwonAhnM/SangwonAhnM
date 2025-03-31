@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Research Assistant. Political and Parliamentary Affairs Team, National Assembly Research Service (present) 
+- Research Assistant, Political and Parliamentary Affairs Team, National Assembly Research Service (present) 
 - M.A. Political Science, Seoul National University (2022 - 2025)
 - Field of Interest: Political Behavior, Political Communication, Computational Social Science
 - Current Research Topics: Persuasion, Swing Voters, Affective Polarization, Machine Learning
